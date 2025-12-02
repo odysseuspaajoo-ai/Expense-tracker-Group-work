@@ -1,0 +1,21 @@
+ body {
+            font-family: Arial;
+            margin: 20px;
+        }
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            background-color: #ddd;
+        }
+        #total {
+            margin-top: 15px;
+            font-size: 18px;
+            font-weight: bold;
+        }
